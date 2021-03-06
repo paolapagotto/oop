@@ -1,0 +1,14 @@
+Definições: 
+
+Classe é uma estrutura que abstrai
+ um conjunto de informações do mundo real,
+ com características similares.
+
+Atributos formam um conjunto de informações que
+ pertencem ao mesmo contexto, com a finalidade
+ de definir o comportamento de uma classe.
+ 
+Métodos são definições de comportamento dos
+ objetos de uma classe.
+
+
